@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bubbler</string>
+    <string name="add_message">Add a new project</string>
+    <string name="button_add">Add</string>
+    <string name="cont_descrption">TODO</string>
+
+    <string name="context_menu_item_top">Move to top</string>
+    <string name="context_menu_item_bottom">Move to bottom</string>
+    <string name="context_menu_item_up">Move up</string>
+    <string name="context_menu_item_down">Move down</string>
+    <string name="context_menu_item_delete">Delete</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

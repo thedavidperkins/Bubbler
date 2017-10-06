@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/optionTop"
+        android:title="@string/context_menu_item_top" />
+
+    <item android:id="@+id/optionBottom"
+        android:title="@string/context_menu_item_bottom" />
+
+    <item android:id="@+id/optionUp"
+        android:title="@string/context_menu_item_up" />
+
+    <item android:id="@+id/optionDown"
+        android:title="@string/context_menu_item_down" />
+
+    <item android:id="@+id/optionDelete"
+        android:title="@string/context_menu_item_delete" />
+
+</menu>
